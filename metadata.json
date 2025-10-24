@@ -1,0 +1,7 @@
+{
+  "name": "Camera Selector & Viewer",
+  "description": "A simple web application to select from available camera devices and display the live video feed. The video player is resizable.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
